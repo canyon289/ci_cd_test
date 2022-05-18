@@ -8,7 +8,7 @@ Creating a CI/CD workflow thatll publish an issue every night automatically
 1. Create a basic CI script that runs when main branch is updated (Completed)
 2. Create an issue ticket template in Github (Completed)
 3. Create a basic script that creates an issue ticket when main branch is updated (Completed)
-4. Automatically have CI run every minute (just so we can make sure it works)  
+4. Automatically have CI run every minute (just so we can make sure it works)  (Completed)
   * Eventual goal: Is to have an issue ticket postd at 12 pm PST everyday
 
 ## What CI CD will do for us
