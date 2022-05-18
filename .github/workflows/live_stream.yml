@@ -16,3 +16,7 @@ jobs:
       - name: Run a one-line script
         run: echo Hello from Octo Organization
 
+      - uses: actions/checkout@v3
+
+      - name: Print Environmental Var
+        run: echo $default-branch
