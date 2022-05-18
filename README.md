@@ -1,5 +1,5 @@
 # CI CD Test
-Stream Link: https://youtu.be/G7YK4LRRMvQ
+**Stream Link:** https://youtu.be/G7YK4LRRMvQ
 
 Creating a CI/CD workflow thatll publish an issue every night automatically
 
